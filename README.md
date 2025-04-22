@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&height=40&lines=Turning+Data+into+Decisions;Code.+Analyze.+Visualize.+Repeat" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/kyechan99/capsule-render/raw/master/img/minimalist.svg" width="100%" />
-</div>
-
 ---
 
 ### 🧠 About Me:
@@ -68,13 +64,4 @@
 ### 🧬 Quote I Live By:
 > *“Turning Data into Decisions”*
 
----
-
-### 💫 Dynamic 3D Visualization:
-<div align="center">
-  <img src="https://github.com/MehtaSamiksha/MehtaSamiksha/blob/main/assets/data_orbit.gif" width="300" height="300" />
-  <p>Watch the 3D model rotate for an extra dynamic touch!</p>
-</div>
-
----
 

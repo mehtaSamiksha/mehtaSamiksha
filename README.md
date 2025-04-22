@@ -73,3 +73,10 @@
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </div>
+### 🧿 Visualize My Data Universe (3D Orbit)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehtaSamiksha/mehtaSamiksha/main/assets/data_orbit.gif" width="300" alt="3D Data Orbit Animation" />
+  <br/>
+  <em>Exploring a universe of data — turning ideas into insights ✨</em>
+</p>
